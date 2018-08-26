@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import userInput from './Components/UserInput.js';
+import userOutput from './Components/UserOutput.js';
 
 class App extends Component {
   render() {
